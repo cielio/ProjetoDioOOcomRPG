@@ -1,10 +1,12 @@
 namespace ProjetoDioOOcomRPG.Entities
 {
     public class MagicHero : Hero
-    {
+    {   
+        
         public MagicHero(string name, int level, int hp, int mp, string heroType) 
                         : base(name, level, hp, mp, heroType)
         {
+            
         }
 
         public override string Attack()
@@ -14,7 +16,7 @@ namespace ProjetoDioOOcomRPG.Entities
 
         public override string Attack(int bonus)
         {
-            return $"{this.Name} atacou com a Bola de fogo, com bonus de {bonus}";
+            return $"{this.Name} atacou com a Bola de fogo mais bonus de {bonus}" ;
         }
     }
 }

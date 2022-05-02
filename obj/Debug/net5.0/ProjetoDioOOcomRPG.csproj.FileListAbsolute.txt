@@ -1,3 +1,8 @@
+C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.csproj.AssemblyReference.cache
+C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.AssemblyInfoInputs.cache
+C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.AssemblyInfo.cs
+C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.csproj.CoreCompileInputs.cache
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.exe
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.deps.json
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.runtimeconfig.json
@@ -5,12 +10,23 @@ C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\Pr
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.dll
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ref\ProjetoDioOOcomRPG.dll
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.pdb
-C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.csproj.AssemblyReference.cache
-C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.AssemblyInfoInputs.cache
-C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.AssemblyInfo.cs
-C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.csproj.CoreCompileInputs.cache
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.dll
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ref\ProjetoDioOOcomRPG.dll
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.pdb
 C:\Users\cieli\OneDrive\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.genruntimeconfig.cache
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.exe
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.deps.json
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.runtimeconfig.json
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.runtimeconfig.dev.json
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.dll
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\bin\Debug\net5.0\ProjetoDioOOcomRPG.pdb
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.csproj.AssemblyReference.cache
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.AssemblyInfoInputs.cache
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.AssemblyInfo.cs
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.csproj.CoreCompileInputs.cache
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.dll
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ref\ProjetoDioOOcomRPG.dll
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.pdb
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\ProjetoDioOOcomRPG.genruntimeconfig.cache
+D:\Meu Driver\Projetos\Csharp\Aulas csharp 2022\ProjetoDioOOcomRPG\obj\Debug\net5.0\refint\ProjetoDioOOcomRPG.dll

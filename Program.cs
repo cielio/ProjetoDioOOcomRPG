@@ -4,9 +4,10 @@ using ProjetoDioOOcomRPG.Entities;
 namespace ProjetoDioOOcomRPG
 {
     class Program
-    {
+    {  
         static void Main(string[] args)
-        {
+        {   
+
             MagicHero topapa = new MagicHero(
                 name: "Topapa",
                 level: 42,
@@ -14,7 +15,7 @@ namespace ProjetoDioOOcomRPG
                 mp: 641,
                 heroType: "Black Wizard"
             );
-
+            
             MagicHero jenica = new MagicHero(
                 name: "Jenica",
                 level: 42,
@@ -39,10 +40,16 @@ namespace ProjetoDioOOcomRPG
                 heroType: "Ninja"
             );
 
-            System.Console.WriteLine(arcus.Attack());
-            System.Console.WriteLine(topapa.Attack(32));
-            System.Console.WriteLine(wedge.Attack(10));
-            System.Console.WriteLine(jenica.Attack());
+            Batalha(jenica, wedge);
+
+            Console.Write("");
+            Console.WriteLine("");
+        }
+        public static void Batalha(Hero hero1, Hero hero2){
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine( $"x {x}");
+            Console.WriteLine( $"Nome Jogador 1 {hero1.Attack()}");
+            Console.WriteLine( $"Nome Jogador 2 {hero2.Attack()}");
         }
     }
 }
